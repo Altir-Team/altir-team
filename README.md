@@ -12,4 +12,8 @@ Write letter to our mail `smth@altir.xyz` with subject `Join to team`, we will d
 <li>something else.. just wait</li>
 </ul>
 
+# Discord sever
+
+[Cool server](https://altir.xyz/support)
+
 :)
