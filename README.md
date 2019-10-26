@@ -1,5 +1,5 @@
 # WHAT IS ALTIR TEAM
-Altir Team is team that develops some cool things in NodeJS
+Altir Team is team that develops some cool things in (Node)JS and other languages
 
 # HOW TO JOIN
 Write letter to our mail `smth@altir.xyz` with subject `Join to team`, we will discuss about your invitation to our team
